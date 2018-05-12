@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: 'Sequel: The Forerunners, #31313.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32779#Above-the-Battle
 gutenberg_issued: '2010-06-12'
 gutenberg_type: Text
 identifiers:
